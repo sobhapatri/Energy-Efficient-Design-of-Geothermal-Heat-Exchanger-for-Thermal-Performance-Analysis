@@ -27,7 +27,7 @@ To identify the optimal **Pitch/Coil Diameter (p/D) ratio** for a **Double Helic
   - Applied constant wall temperature and mass flow inlet boundary conditions.
 
 - **Analytical Evaluation**
-  - Created a Python script to compute the heat transfer rate \( Q = \dot{m} C_p (T_{out} - T_{in}) \) and plotted Q vs p/D.
+  - Created a Python script to compute the heat transfer rate ( Q = dot{m} C_p (T_{out} - T_{in}) ) and plotted Q vs p/D.
 
 - **Validation**
   - Compared results from ANSYS simulations and analytical calculations to ensure consistency.
